@@ -14,4 +14,6 @@ Do you really need some help and are stuck? Don't hesitate and just contact me i
 
 I wrote this tutorial series for netzunity. If you have any questions or problems, you can get help in our community
 
+<a href="https://www.netzunity.com" target="_blank">
 <img src="https://netzunity.com/attachment/236-standard-gif/" />
+</a>
