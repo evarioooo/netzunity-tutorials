@@ -96,7 +96,7 @@ Change
 ```
 to
 ```
-# unixsocket /var/run/redis/redis-server.sock
+unixsocket /var/run/redis/redis-server.sock
 ```
 From the line below make
 ```
